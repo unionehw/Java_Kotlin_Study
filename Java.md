@@ -52,7 +52,7 @@ public class 클래스명 {
 * 클래스 블록은 사용자 마음대로 지을 수 있음.
 * 단, 클래스명은 소스 파일의 이름(예: 클래스명.java)과 똑같이 사용
 #### 메서드 블록
-* ``` [public|private|protected]``` 는 public, private, protected가 오거나 오지 않을 수도 있다는 의미, public, private, protected는 메서드의 접근 제어자
+* ```[public|private|protected]``` 는 public, private, protected가 오거나 오지 않을 수도 있다는 의미, public, private, protected는 메서드의 접근 제어자
 * ``` [stactic] ``` 는 static 키워드가 올 수도 있고 오지 않을 수도 있다는 의미, static이라는 키워드가 붙으면 static 메서드가 됨 
 * ``` (리턴 자료형|void) ``` 는 메서드가 실행된 후 리턴되는 값의 자료형을 의미. 리턴값이 있을 경우에는 반드시 리턴 자료형을 표기. 리턴값이 없는 경우라면 void로 표기
 * 메서드명은 자유롭게 지을 수 있음. 메서드명 뒤에 이어지는 괄호 안의 값들(입력 자료형, 매개변수 등)은 메서드의 입력 인자를 뜻함
